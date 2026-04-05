@@ -1,0 +1,36 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "name": "Refonte Site Web",
+      "color": "#6366f1"
+    },
+    {
+      "id": "2",
+      "name": "Campagne Marketing",
+      "color": "#a855f7"
+    },
+    {
+      "id": "3",
+      "name": "Application Mobile",
+      "color": "#14b8a6"
+    }
+  ],
+  "columns": [
+    {
+      "id": "c1",
+      "title": "À faire",
+      "tasks": ["Maquettes Figma", "Réunion client"]
+    },
+    {
+      "id": "c2",
+      "title": "En cours",
+      "tasks": ["Intégration HTML/CSS"]
+    },
+    {
+      "id": "c3",
+      "title": "Terminé",
+      "tasks": ["Cahier des charges"]
+    }
+  ]
+}
