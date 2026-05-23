@@ -21,9 +21,9 @@
   ],
   "projects": [
     {
-      "id": "1",
-      "name": "Site E-commerce",
-      "color": "#e74c3c"
+      "name": "Site E-commerce Updated",
+      "color": "#e67e22",
+      "id": "1"
     },
     {
       "id": "2",
@@ -36,14 +36,14 @@
       "color": "#2ecc71"
     },
     {
-      "id": "4",
-      "name": "Site Portfolio",
-      "color": "#9b59b6"
-    },
-    {
       "name": "yasser",
       "color": "#0cd459",
       "id": "hDD05M7FABc"
+    },
+    {
+      "name": "OKKAY",
+      "color": "#000000",
+      "id": "Vm44GcWt2VI"
     }
   ],
   "columns": [

@@ -1,0 +1,30 @@
+{
+  "node": {
+    "2414ceab69f7a98410acb554ebe3887b270c5e2f": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyasse%5C%5CDocuments%5C%5CTaskk_flow%5C%5Capp%5C%5Cactions%5C%5Cprojects.ts%22%2C%5B%22addProject%22%2C%22deleteProject%22%2C%22renameProject%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "661d10b8979911bc2e08247d9f61a1b25b99686e": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyasse%5C%5CDocuments%5C%5CTaskk_flow%5C%5Capp%5C%5Cactions%5C%5Cprojects.ts%22%2C%5B%22addProject%22%2C%22deleteProject%22%2C%22renameProject%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    },
+    "b4e396b3bcce05f1e0bb7a98816272b71fe919da": {
+      "workers": {
+        "app/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Cyasse%5C%5CDocuments%5C%5CTaskk_flow%5C%5Capp%5C%5Cactions%5C%5Cprojects.ts%22%2C%5B%22addProject%22%2C%22deleteProject%22%2C%22renameProject%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/dashboard/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "qDuY4MeOwmkvDWlA4hhj6/xd/UzklsqhYa7VXDlNRmQ="
+}
